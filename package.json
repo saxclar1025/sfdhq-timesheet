@@ -1,0 +1,24 @@
+{
+  "name": "sfdhq-timesheet",
+  "version": "1.0.0",
+  "description": "MERN-stack powered tasklogger and admin tool for South Florida Diving Headquarters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saxclar1025/sfdhq-timesheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saxclar1025/sfdhq-timesheet/issues"
+  },
+  "homepage": "https://github.com/saxclar1025/sfdhq-timesheet#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.1"
+  }
+}
