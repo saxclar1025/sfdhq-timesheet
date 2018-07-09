@@ -21,6 +21,10 @@ var EntrySchema = new Schema({
   quantity: {
     type: Number,
     required: true
+  },
+
+  note: {
+    type: String
   }
 });
 
